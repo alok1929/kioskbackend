@@ -1,3 +1,5 @@
+//this is the original code, the other one is being worked on, constantly updating. Both have the same goal. Just chatpgt to figure out how it works.
+
 import openai
 import sounddevice as sd
 import soundfile as sf
